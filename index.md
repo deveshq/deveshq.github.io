@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: "Home"
 ---
-# Quantum Researcher
-  
+
+## Quantum Researcher
+
   In a superposition of physics, musics, and books!
 
 
