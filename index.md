@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-<body>
+<body STYLE="margin: 30px 20px 10px 20px">
   <h2>Quantum Researcher</h2>
   <br><br>
   <em>In a superposition of physics, musics, and books!</em>
