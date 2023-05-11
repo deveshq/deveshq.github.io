@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Home"
 ---
 
@@ -8,7 +8,8 @@ title: "Home"
 <br>
 <br>
 <br>
----
+<hr>
+<br>
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
