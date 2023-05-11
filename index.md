@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 
+title: "Home"
 ---
 
 ### Quantum Researcher
 ***In a superposition of physics, musics, and books!***
-
-### Blog
-
+<br>
+<br>
+<br>
+---
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
