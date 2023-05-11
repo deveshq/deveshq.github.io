@@ -4,8 +4,8 @@ title: "Home"
 ---
 
 <center>
-  <img alt="profile" src="/assets/profile.png" hight=100 width = 100>
-  <h2 STYLE="margin: 30px 20px 0px 20px">Quantum Research Associate, Qulabs Software India</h2>
+  <img alt="profile" src="/assets/profile.png" hight=100 width = 100 align=right>
+  <h3 STYLE="margin: 30px 20px 0px 20px">Quantum Research Associate, Qulabs Software India</h3>
   <em STYLE="margin: 0px 20px 0px 20px">In a superposition of physics, musics, and books!</em>
 </center>
 
