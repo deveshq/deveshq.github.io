@@ -3,8 +3,8 @@ layout: default
 title: "Home"
 ---
 <center>
-  <img alt="profile" src="/assets/profile.png" hight=100 width = 100>
-  <p STYLE="margin: 30px 20px 0px 20px"><b>Quantum Research Associate, Qulabs Software India</b></p>
+  <img alt="profile" src="/assets/profile.png" hight=100 width = 100 STYLE="margin: 2px 0px 0px 0px">
+  <h3 STYLE="margin: 2px 20px 0px 20px">Quantum Research Associate, Qulabs Software India</h3>
   <em STYLE="margin: 0px 20px 0px 20px">In a superposition of physics, musics, and books!</em>
 </center>
 <br>
