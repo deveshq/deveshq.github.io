@@ -2,9 +2,11 @@
 layout: default
 title: "Home"
 ---
-
-### Quantum Researcher
-***In a superposition of physics, musics, and books!***
+<body>
+  <h2>Quantum Researcher</h2>
+  <br><br>
+  <em>In a superposition of physics, musics, and books!</em>
+</body>
 <br>
 <br>
 <br>
