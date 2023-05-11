@@ -2,11 +2,8 @@
 layout: default
 title: "Home"
 ---
-<body STYLE="margin: 30px 20px 10px 20px">
-  <h2>Quantum Researcher</h2>
-  <br><br>
-  <em>In a superposition of physics, musics, and books!</em>
-</body>
+  <h2 STYLE="margin: 30px 20px 0px 20px">Quantum Researcher</h2>
+  <em STYLE="margin: 0px 20px 0px 20px">In a superposition of physics, musics, and books!</em>
 <br>
 <br>
 <br>
