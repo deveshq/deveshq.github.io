@@ -8,12 +8,11 @@ title: "Home"
   <em style="margin: 0px 20px 0px 20px">In a superposition of physics, musics, and books!</em>
 </center>
 <br>
-<br>
-<p style="margin: 5px 20px 0px 20px; text-align: justify;">
+<p style="margin: 5px 25px 0px 25px; text-align: justify;">
   Hi, I'm Devesh! A quantum computing researcher, with a background in physics. I am working as a research associate at Qulabs, on developing quantum simulation methods and how they can be applied to the pharmaceuticals and healthcare industry. Technologies which have a direct impact on society and are supposed to be work for the greater good, always fascinate me; and I take pride in working on one of them. I did my undergrad from <a href="https://www.andcollege.du.ac.in/">Acharya Narender Dev College, University of Delhi</a> and master's from <a href="https://www.iitr.ac.in/">IIT Roorkee</a> . P.S: My complete CV is available in the navigation bar.
-    <br>
+    <br><br>
     I oscillate between two selves - one who admires beautiful songs and amazing artwork... who thinks deeply about humans, their emotions, their desires - more like a poet does. (Sometimes I think, I was a struggling writer in my previous birth, who didn't succeed!) On the other hand, I'm like a scientist or mathematician who thinks about the right frameworks and methodologies to develop useful technologies, and improve existing ones. My end goal is always developing solutions for real world problems, with empathy embedded into them.
-    <br>
+    <br><br>
     Thank you for your time to go through my website. You can connect me on <a href="https://twitter.com/eshqdev/">twitter</a> or <a href="https://www.instagram.com/eshqdev/">instagram</a> (pardon me, if I'm not available there). You can write to me at <a href="mailto:eshqdev@gmail.com">eshqdev@gmail.com</a> directly.
 </p>
 
