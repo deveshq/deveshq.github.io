@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Devesh's CV
 ---
 # Devesh Kumar
 Researcher, Qunatum Computing | Qualbs Software India Pvt. Ltd.
